@@ -1,2 +1,3 @@
-# git-resource
-Wrapper for https://github.com/concourse/git-resource
+# Git Resource
+
+Wrapper for [concourse/git-resource](https://github.com/concourse/git-resource).
